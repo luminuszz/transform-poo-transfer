@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author VinY
- *
- */
-module CMS {
-}
